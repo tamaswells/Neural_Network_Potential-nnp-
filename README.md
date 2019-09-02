@@ -1,1 +1,1 @@
-# Neural_Network_Potential-nnp-
+Neural_Network_Potential
